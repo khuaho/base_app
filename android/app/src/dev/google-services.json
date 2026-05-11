@@ -1,0 +1,21 @@
+{
+  "project_info": {
+    "project_number": "000000000001",
+    "project_id": "base-app-dev",
+    "storage_bucket": "base-app-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:000000000001:android:aaaaaaaaaaaaaaaadev000",
+        "android_client_info": {
+          "package_name": "com.base.app.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [{ "current_key": "FAKE_DEV_API_KEY_REPLACE_ME" }],
+      "services": { "appinvite_service": { "other_platform_oauth_client": [] } }
+    }
+  ],
+  "configuration_version": "1"
+}

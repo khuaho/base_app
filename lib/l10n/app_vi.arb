@@ -1,0 +1,16 @@
+{
+  "@@locale": "vi",
+  "appName": "Base App",
+  "loginTitle": "Chào mừng trở lại",
+  "loginSubtitle": "Đăng nhập để tiếp tục",
+  "emailLabel": "Email",
+  "passwordLabel": "Mật khẩu",
+  "loginButton": "Đăng nhập",
+  "logoutButton": "Đăng xuất",
+  "errorInvalidEmail": "Vui lòng nhập email hợp lệ",
+  "errorEmptyPassword": "Mật khẩu không được để trống",
+  "errorGeneric": "Đã xảy ra lỗi. Vui lòng thử lại.",
+  "errorUnauthorized": "Thông tin đăng nhập không đúng",
+  "errorNoInternet": "Không có kết nối internet",
+  "homeTitle": "Trang chủ"
+}

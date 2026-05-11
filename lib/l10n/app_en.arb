@@ -1,0 +1,32 @@
+{
+  "@@locale": "en",
+  "appName": "Base App",
+  "@appName": { "description": "The name of the application" },
+
+  "loginTitle": "Welcome back",
+  "@loginTitle": {},
+  "loginSubtitle": "Sign in to continue",
+  "@loginSubtitle": {},
+  "emailLabel": "Email",
+  "@emailLabel": {},
+  "passwordLabel": "Password",
+  "@passwordLabel": {},
+  "loginButton": "Sign In",
+  "@loginButton": {},
+  "logoutButton": "Sign Out",
+  "@logoutButton": {},
+
+  "errorInvalidEmail": "Please enter a valid email",
+  "@errorInvalidEmail": {},
+  "errorEmptyPassword": "Password cannot be empty",
+  "@errorEmptyPassword": {},
+  "errorGeneric": "Something went wrong. Please try again.",
+  "@errorGeneric": {},
+  "errorUnauthorized": "Invalid credentials",
+  "@errorUnauthorized": {},
+  "errorNoInternet": "No internet connection",
+  "@errorNoInternet": {},
+
+  "homeTitle": "Home",
+  "@homeTitle": {}
+}
